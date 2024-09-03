@@ -1,0 +1,9 @@
+com.DefaultCompany.FlappyBirdTeam5.launcher-pngs-0 E:\UnityProject\FB-Unity2018\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.FlappyBirdTeam5.launcher-resValues-1 E:\UnityProject\FB-Unity2018\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.FlappyBirdTeam5.launcher-rs-2 E:\UnityProject\FB-Unity2018\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.FlappyBirdTeam5.launcher-mergeReleaseResources-3 E:\UnityProject\FB-Unity2018\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.FlappyBirdTeam5.launcher-mergeReleaseResources-4 E:\UnityProject\FB-Unity2018\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.FlappyBirdTeam5.launcher-merged_res-5 E:\UnityProject\FB-Unity2018\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.FlappyBirdTeam5.launcher-main-6 E:\UnityProject\FB-Unity2018\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.DefaultCompany.FlappyBirdTeam5.launcher-release-7 E:\UnityProject\FB-Unity2018\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.DefaultCompany.FlappyBirdTeam5.launcher-packaged_res-8 E:\UnityProject\FB-Unity2018\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release

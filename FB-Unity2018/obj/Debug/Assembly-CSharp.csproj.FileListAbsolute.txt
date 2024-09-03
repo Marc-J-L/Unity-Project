@@ -1,0 +1,8 @@
+E:\UnityProject\FB-Unity2018\Temp\bin\Debug\Assembly-CSharp.dll
+E:\UnityProject\FB-Unity2018\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\UnityProject\FB-Unity2018\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\UnityProject\FB-Unity2018\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\UnityProject\FB-Unity2018\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\UnityProject\FB-Unity2018\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+E:\UnityProject\FB-Unity2018\obj\Debug\Assembly-CSharp.dll
+E:\UnityProject\FB-Unity2018\obj\Debug\Assembly-CSharp.pdb
