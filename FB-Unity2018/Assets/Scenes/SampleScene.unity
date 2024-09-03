@@ -2112,7 +2112,7 @@ GameObject:
   - component: {fileID: 1215454257}
   - component: {fileID: 1215454258}
   m_Layer: 0
-  m_Name: bird0_0
+  m_Name: bird_r
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
