@@ -82,16 +82,16 @@ public class GameManager : MonoBehaviour
         //get score
         int score = int.Parse(scoreText.text);
         //Medal.sprite = test;
-        if(score >= 30)
+        if(score >= 15)
         {
             Medal.sprite = medals[3];
-        }else if(score >= 20)
-        {
-            Medal.sprite = medals[2];
         }else if(score >= 10)
         {
-            Medal.sprite = medals[1];
+            Medal.sprite = medals[2];
         }else if(score >= 5)
+        {
+            Medal.sprite = medals[1];
+        }else if(score >= 3)
         {
             Medal.sprite = medals[0];
         }
