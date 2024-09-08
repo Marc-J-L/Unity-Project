@@ -2782,10 +2782,10 @@ MonoBehaviour:
   NewScore: {fileID: 1570212427}
   Medal: {fileID: 923276794}
   medals:
-  - {fileID: 21300000, guid: bdd569850242c4c499b23ccecec16b2c, type: 3}
-  - {fileID: 21300000, guid: 2238a35c87444da4f9f0b1854dfdb9f2, type: 3}
-  - {fileID: 21300000, guid: 52882ec48066228419d82889c7f371d8, type: 3}
-  - {fileID: 21300000, guid: 8c3a26daf4f6ade40931fd22d340ef28, type: 3}
+  - {fileID: 21300000, guid: ba1457182072fa94ea70912ee0b2a2e5, type: 3}
+  - {fileID: 21300000, guid: 0528a5ef9f275ba49aec223b5f51c63b, type: 3}
+  - {fileID: 21300000, guid: bafcb87809f74314796c53ad6c54f0d2, type: 3}
+  - {fileID: 21300000, guid: bafcb87809f74314796c53ad6c54f0d2, type: 3}
   bird: {fileID: 1215454252}
   isGameReady: 0
   isGameStart: 0
