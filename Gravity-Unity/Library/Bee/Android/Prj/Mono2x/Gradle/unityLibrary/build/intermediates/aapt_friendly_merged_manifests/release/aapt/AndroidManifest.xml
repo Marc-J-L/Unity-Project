@@ -56,6 +56,12 @@
             <meta-data
                 android:name="unityplayer.UnityActivity"
                 android:value="true" />
+
+            <layout
+                android:defaultHeight="1080px"
+                android:defaultWidth="1920px"
+                android:minHeight="300px"
+                android:minWidth="400px" />
         </activity>
     </application>
 

@@ -1,4 +1,4 @@
-com.DefaultCompany.FlappyBirdTeam5
+com.DefaultCompany.GravityTeam5
 color staticSplashScreenBackgroundColor
 drawable app_banner
 id unitySurfaceView

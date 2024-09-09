@@ -1,9 +1,9 @@
 <libraries>
   <library
-      name="E:\UnityProject\FB-Unity2018\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
-      jars="E:\UnityProject\FB-Unity2018\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\40b01a855720964e1b49d44cfa722115\transformed\out\jars\classes.jar;E:\UnityProject\FB-Unity2018\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\40b01a855720964e1b49d44cfa722115\transformed\out\jars\libs\R.jar;E:\UnityProject\FB-Unity2018\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\40b01a855720964e1b49d44cfa722115\transformed\out\jars\libs\unity-classes.jar"
+      name="E:\A-Job\Unity-Project\Gravity-Unity\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+      jars="E:\A-Job\Unity-Project\Gravity-Unity\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\d8e006426577b0ca14f76b689d8b78e1\transformed\out\jars\classes.jar;E:\A-Job\Unity-Project\Gravity-Unity\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\d8e006426577b0ca14f76b689d8b78e1\transformed\out\jars\libs\R.jar;E:\A-Job\Unity-Project\Gravity-Unity\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\d8e006426577b0ca14f76b689d8b78e1\transformed\out\jars\libs\unity-classes.jar"
       resolved="Gradle:unityLibrary:unspecified"
-      folder="E:\UnityProject\FB-Unity2018\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\40b01a855720964e1b49d44cfa722115\transformed\out"
+      folder="E:\A-Job\Unity-Project\Gravity-Unity\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\d8e006426577b0ca14f76b689d8b78e1\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -13,9 +13,9 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="__local_aars__:E:\UnityProject\FB-Unity2018\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
-      jars="E:\UnityProject\FB-Unity2018\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
-      resolved="__local_aars__:E:\UnityProject\FB-Unity2018\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+      name="__local_aars__:E:\A-Job\Unity-Project\Gravity-Unity\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="E:\A-Job\Unity-Project\Gravity-Unity\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:E:\A-Job\Unity-Project\Gravity-Unity\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
   <library
       name=":UnityAds:@aar"
       jars="C:\Users\jieli\.gradle\caches\transforms-3\56c2a13d010b4b839effeccd13ace3ab\transformed\jetified-UnityAds\jars\classes.jar;C:\Users\jieli\.gradle\caches\transforms-3\56c2a13d010b4b839effeccd13ace3ab\transformed\jetified-UnityAds\jars\libs\unity-scaradapter-1920.jar;C:\Users\jieli\.gradle\caches\transforms-3\56c2a13d010b4b839effeccd13ace3ab\transformed\jetified-UnityAds\jars\libs\unity-scaradapter-1950.jar;C:\Users\jieli\.gradle\caches\transforms-3\56c2a13d010b4b839effeccd13ace3ab\transformed\jetified-UnityAds\jars\libs\unity-scaradapter-2000.jar;C:\Users\jieli\.gradle\caches\transforms-3\56c2a13d010b4b839effeccd13ace3ab\transformed\jetified-UnityAds\jars\libs\unity-scaradapter-common.jar"

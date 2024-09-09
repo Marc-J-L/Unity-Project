@@ -157,17 +157,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 19602}
     - Class: 114
-      Script: {instanceID: 20482}
+      Script: {instanceID: 20238}
     - Class: 114
-      Script: {instanceID: 20652}
+      Script: {instanceID: 20484}
     - Class: 114
-      Script: {instanceID: 21082}
+      Script: {instanceID: 20654}
     - Class: 114
-      Script: {instanceID: 21232}
+      Script: {instanceID: 21084}
     - Class: 114
-      Script: {instanceID: 21582}
+      Script: {instanceID: 21234}
     - Class: 114
-      Script: {instanceID: 26396}
+      Script: {instanceID: 21584}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -799,6 +799,12 @@ ScriptsOnlyBuild:
     className: EnvMapAnimator
   - hash:
       serializedVersion: 2
+      Hash: 3e0004b9a1c33b040308b25942c38e04
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: AudioController
+  - hash:
+      serializedVersion: 2
       Hash: 665da785348a8806bf1524fe10742a60
     assemblyName: Assembly-CSharp
     namespaceName: TMPro.Examples
@@ -1025,13 +1031,7 @@ ScriptsOnlyBuild:
     assemblyName: Unity.AI.Navigation
     namespaceName: Unity.AI.Navigation
     className: NavMeshLink
-  - hash:
-      serializedVersion: 2
-      Hash: 3e0004b9a1c33b040308b25942c38e04
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: AudioController
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: E:/UnityProject/androidProject/FlappyBird-v13.apk
+  playerPath: E:/A-Job/Unity-Project/forAndroid/Gravity1.1.apk

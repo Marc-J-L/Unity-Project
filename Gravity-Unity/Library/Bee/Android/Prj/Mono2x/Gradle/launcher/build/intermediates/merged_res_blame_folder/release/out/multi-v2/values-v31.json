@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.DefaultCompany.FlappyBirdTeam5.launcher-mergeReleaseResources-3:/values-v31/values-v31.xml",
+            "outputFile": "com.DefaultCompany.GravityTeam5.launcher-mergeReleaseResources-3:/values-v31/values-v31.xml",
             "map": [
                 {
-                    "source": "E:\\UnityProject\\FB-Unity2018\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values-v31\\values-v31.xml",
+                    "source": "E:\\A-Job\\Unity-Project\\Gravity-Unity\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values-v31\\values-v31.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

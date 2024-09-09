@@ -18,6 +18,7 @@
         <action android:name="android.intent.action.MAIN" />
       </intent-filter>
       <meta-data android:name="unityplayer.UnityActivity" android:value="true" />
+      <layout android:defaultWidth="1920px" android:defaultHeight="1080px" android:minWidth="400px" android:minHeight="300px" />
     </activity>
   </application>
 </manifest>

@@ -5,7 +5,7 @@ dependencies {
     }
 
 android {
-    namespace "com.DefaultCompany.FlappyBirdTeam5"
+    namespace "com.DefaultCompany.GravityTeam5"
     ndkPath "D:/Program Files/2022.3.41f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK"
 
     compileSdkVersion 34
@@ -19,12 +19,12 @@ android {
     defaultConfig {
         minSdkVersion 22
         targetSdkVersion 34
-        applicationId 'com.DefaultCompany.FlappyBirdTeam5'
+        applicationId 'com.DefaultCompany.GravityTeam5'
         ndk {
             abiFilters 'armeabi-v7a'
         }
         versionCode 1
-        versionName '1.3'
+        versionName '1.1'
     }
 
     aaptOptions {

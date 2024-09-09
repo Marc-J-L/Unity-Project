@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.DefaultCompany.FlappyBirdTeam5"
+    package="com.DefaultCompany.GravityTeam5"
     android:installLocation="preferExternal"
     android:versionCode="1"
-    android:versionName="1.3" >
+    android:versionName="1.1" >
 
     <uses-sdk
         android:minSdkVersion="22"
@@ -83,6 +83,12 @@
             <meta-data
                 android:name="unityplayer.UnityActivity"
                 android:value="true" />
+
+            <layout
+                android:defaultHeight="1080px"
+                android:defaultWidth="1920px"
+                android:minHeight="300px"
+                android:minWidth="400px" />
         </activity>
         <activity
             android:name="com.unity3d.services.ads.adunit.AdUnitActivity"
