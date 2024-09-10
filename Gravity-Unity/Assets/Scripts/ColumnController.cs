@@ -47,20 +47,20 @@ public class ColumnController : MonoBehaviour
         columns.Add(column);
     }
 
-    public void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.K))
-        {
-            //SpawnOneColumn();
-            StopMove();
-        }
+    //public void Update()
+    //{
+    //    if (Input.GetKeyDown(KeyCode.K))
+    //    {
+    //        //SpawnOneColumn();
+    //        StopMove();
+    //    }
 
-        if (Input.GetKeyDown(KeyCode.J))
-        {
+    //    if (Input.GetKeyDown(KeyCode.J))
+    //    {
             
-            StartMove();
-        }
-    }
+    //        StartMove();
+    //    }
+    //}
 
     IEnumerator SpawnColumn()
     {
