@@ -569,7 +569,7 @@ GameObject:
   - component: {fileID: 371215958}
   - component: {fileID: 371215959}
   m_Layer: 0
-  m_Name: bg_day (1)
+  m_Name: bg_ 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2442,7 +2442,7 @@ GameObject:
   - component: {fileID: 1361461891}
   - component: {fileID: 1361461892}
   m_Layer: 0
-  m_Name: bg_day
+  m_Name: bg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
