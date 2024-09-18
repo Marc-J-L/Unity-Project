@@ -1,7 +1,7 @@
 # Unity-Project
 A 2D side-scrolling adventure game - Unity + C#
 
-[Download Video Demo](video/GravityDemo.mp4)
+![Download Video Demo](video/GravityDemo.mp4)
 
 <a href="video/GravityDemo.mp4" download>Download Video Demo</a>
 
